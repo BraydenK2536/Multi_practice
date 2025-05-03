@@ -1,6 +1,4 @@
-package Function;
-
-import Stream.StreamDemo7.Actor;
+package Exception;
 
 public class Student {
     private String name;
