@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="lib2">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/JavaPratice/JavaPratice/src/lib/commons-io-2.19.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/JavaPratice/JavaPratice/src/lib/hutool-all-5.8.10.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

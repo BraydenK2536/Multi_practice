@@ -1,5 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="1b8f4a60-1a08-4524-9c39-3401f4e95f2e" name="更改" comment="">
       <change afterPath="$PROJECT_DIR$/JavaPratice/src/IO/PrintStream/PrintStreamDemo1.java" afterDir="false" />
@@ -12,6 +15,13 @@
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
@@ -28,22 +38,29 @@
   "keyToString": {
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "main",
+    "git-widget-placeholder": "<未知>",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "E:/Multi_practice/Nova/JavaPratice/JavaPratice",
+    "last_opened_file_path": "D:/Multi_practice/Nova/JavaPratice/diary",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
-    "project.structure.last.edited": "项目",
+    "project.structure.last.edited": "模块",
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.2",
     "settings.editor.selected.configurable": "preferences.general",
-    "vue.rearranger.settings.migration": "true"
+    "vue.rearranger.settings.migration": "true",
+    "应用程序.App.executor": "Run",
+    "应用程序.BufferedStreamDemo2.executor": "Run",
+    "应用程序.test1.executor": "Run"
   }
 }]]></component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-jdk-9823dce3aa75-125ca727e0f0-intellij.indexing.shared.core-IU-243.24978.46" />
-        <option value="bundled-js-predefined-d6986cc7102b-76f8388c3a79-JavaScript-IU-243.24978.46" />
+        <option value="bundled-jdk-9823dce3aa75-a94e463ab2e7-intellij.indexing.shared.core-IU-243.26053.27" />
+        <option value="bundled-js-predefined-d6986cc7102b-1632447f56bf-JavaScript-IU-243.26053.27" />
       </set>
     </attachedChunks>
   </component>
@@ -61,6 +78,11 @@
       <workItem from="1745731292559" duration="138000" />
       <workItem from="1745731436283" duration="205000" />
       <workItem from="1746414130592" duration="49000" />
+      <workItem from="1746533481176" duration="4000" />
+      <workItem from="1746533493355" duration="58000" />
+      <workItem from="1746543663410" duration="20000" />
+      <workItem from="1746544213352" duration="1966000" />
+      <workItem from="1746664662962" duration="11360000" />
     </task>
     <servers />
   </component>
